@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StopWatch</string>
+    <string name="start">Старт</string>
+    <string name="stop">Стоп</string>
+    <string name="reset">Сброс</string>
+    <string name="tap_start">Нажмите Старт</string>
+    <string name="stopwatch_start">Секундомер запущен</string>
+    <string name="stopwatch_stop">Секундомер остановлен</string>
+    <string name="stopwatch_reset">Секундомер сброшен</string>
+</resources>
